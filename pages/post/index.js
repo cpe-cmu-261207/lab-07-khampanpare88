@@ -18,7 +18,7 @@ const Posts = () => {
             <td><Link href={"/homepage"}>Home</Link></td>
             <td><Link href={"/gallery"}>Gallery</Link></td>
             <td><Link href={"/contact"}>Contact</Link></td>
-            <td><Link href={"/calgpa"}>GPACalc</Link></td>
+            <td><Link href={"/gpa"}>GPACalc</Link></td>
             <td><Link href={"/post"}>Post</Link></td>
         </tr>
     </table>
